@@ -74,7 +74,7 @@ def clear():
 
 def reverser(ip):
 
-	payload = 'http://vnimoda.com/?ip='+ip
+	payload = 'https://1337hub.000webhostapp.com/?ip='+ip
 
 	try:
 
